@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/3column-preview-card-component-challenge-vkg5ovjK7Z
-- Live Site URL: https://fazryazril.github.io/3-column-preview-card-component-challenge-/
+- Solution URL: https://www.frontendmentor.io/solutions/product-review-card-challenge-h1MCrBwsUY
+- Live Site URL: https://fazryazril.github.io/Product-Review-Card-Challenge/
 
 ## My process
 
